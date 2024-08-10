@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\Visual Studio\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{603A27C6-F103-43A6-9105-5A9D32B8F7BA}|Tetris.csproj|e:\\projects\\visual studio\\tetris\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603A27C6-F103-43A6-9105-5A9D32B8F7BA}|Tetris.csproj|solutionrelative:gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603A27C6-F103-43A6-9105-5A9D32B8F7BA}|Tetris.csproj|e:\\projects\\visual studio\\tetris\\tetrominoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603A27C6-F103-43A6-9105-5A9D32B8F7BA}|Tetris.csproj|solutionrelative:tetrominoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603A27C6-F103-43A6-9105-5A9D32B8F7BA}|Tetris.csproj|e:\\projects\\visual studio\\tetris\\tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603A27C6-F103-43A6-9105-5A9D32B8F7BA}|Tetris.csproj|solutionrelative:tetromino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{603A27C6-F103-43A6-9105-5A9D32B8F7BA}|Tetris.csproj|e:\\projects\\visual studio\\tetris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{603A27C6-F103-43A6-9105-5A9D32B8F7BA}|Tetris.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameField.cs",
+              "DocumentMoniker": "E:\\projects\\Visual Studio\\Tetris\\GameField.cs",
+              "RelativeDocumentMoniker": "GameField.cs",
+              "ToolTip": "E:\\projects\\Visual Studio\\Tetris\\GameField.cs",
+              "RelativeToolTip": "GameField.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAwwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:51:32.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tetrominoes.cs",
+              "DocumentMoniker": "E:\\projects\\Visual Studio\\Tetris\\Tetrominoes.cs",
+              "RelativeDocumentMoniker": "Tetrominoes.cs",
+              "ToolTip": "E:\\projects\\Visual Studio\\Tetris\\Tetrominoes.cs",
+              "RelativeToolTip": "Tetrominoes.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:47:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tetromino.cs",
+              "DocumentMoniker": "E:\\projects\\Visual Studio\\Tetris\\Tetromino.cs",
+              "RelativeDocumentMoniker": "Tetromino.cs",
+              "ToolTip": "E:\\projects\\Visual Studio\\Tetris\\Tetromino.cs",
+              "RelativeToolTip": "Tetromino.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:45:57.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\Visual Studio\\Tetris\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\projects\\Visual Studio\\Tetris\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T10:45:01.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
